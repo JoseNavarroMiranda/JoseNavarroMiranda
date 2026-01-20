@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I'm Jose Elías Navarro Miranda, a full‑stack software engineer passionate about building end‑to‑end web applications that deliver real value. I design and implement robust APIs, performant frontends and scalable backends, with emphasis on code quality, observability, and automated pipelines. I thrive in collaborative teams, mentor junior engineers, and enjoy improving performance, developer experience and product reliability through pragmatic engineering.<br><br>value propositions:<br>Build full‑stack products from idea to production: API design, frontend UX, CI/CD and monitoring.<br>Focus on performance optimization, reliable architecture and measurable outcomes.<br>Practical experience with testing strategies (unit, integration, E2E) and TDD workflows.<br>Comfortable leading features, mentoring teammates and improving engineering processes.<br>Open to contributing to open‑source projects and collaborating on high‑impact products.<br><br>
 
 
